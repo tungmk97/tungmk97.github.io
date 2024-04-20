@@ -1,0 +1,3 @@
+baseURL = "https://mk.dev/"
+title = "MK's Blog"
+theme = "ananke"
